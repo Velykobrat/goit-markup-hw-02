@@ -1,15 +1,11 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #FFFFFF;
 }
 
 header {
     background-color: #E7E9FC;
-    padding-left: 156px;
-    width: 1440px;
-height: 72px;
-flex-shrink: 0;
 }
 
 .main-title {
@@ -22,9 +18,6 @@ flex-shrink: 0;
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 1.12px;
-    width: 496px;
-    padding-left: 472px;
-    padding-top: 188px;
 }
 
 .section3 {
