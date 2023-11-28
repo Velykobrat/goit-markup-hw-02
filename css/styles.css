@@ -20,7 +20,7 @@ header {
     letter-spacing: 1.12px;
 }
 
-.section3 {
+.section-team {
     background-color: #F4F4FD;
 }
 
@@ -169,9 +169,9 @@ cursor: pointer;
 .down-section-text {
     color: #F4F4FD;
     line-height: 1.5;
-    letter-spacing: 0.02px;
+    letter-spacing: 0.02em;
 }
 
-.link-logo3 {
+.link-logo-down {
     color: #F4F4FD;
 }
