@@ -125,7 +125,7 @@ ul {
     list-style-type: none;
 }
 
-.our-team-list {
+.our-team-list li {
     list-style-type: none; 
     background-color: #FFFFFF;
 }
