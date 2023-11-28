@@ -119,6 +119,7 @@ ul {
 
 .contacts {
     list-style-type: none;
+    font-style: normal;
 }
 
 .perevagu-list {
@@ -127,6 +128,7 @@ ul {
 
 .our-team-list {
     list-style-type: none; 
+    background-color: #FFFFFF;
 }
 
 .our-portfolio-list {
@@ -134,9 +136,6 @@ ul {
 }
 
 .main-page {
-    width: 1440px;
-height: 600px;
-flex-shrink: 0;
 background: #2E2F42;
 }
 
@@ -148,13 +147,7 @@ font-style: normal;
 font-weight: 500;
 line-height: 24px; /* 150% */
 letter-spacing: 0.64px;
-    display: inline-flex;
-padding: 16px 32px;
-align-items: flex-start;
-gap: 10px;
-border-radius: 4px;
 background: #4D5AE5;
-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 cursor: pointer;
 }
 
@@ -176,6 +169,8 @@ cursor: pointer;
 
 .down-section-text {
     color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.2px;
 }
 
 .link-logo3 {
